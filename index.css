@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+.atividades{
+    color:black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 300px;
+}
+.hr{
+    width: 30%;
+    border:1px solid black
+}
+.hr2{
+    
+}
